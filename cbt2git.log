@@ -1,0 +1,10 @@
+2023-08-06 06:51:53.883335 - Initialized conversion of CBT747
+2023-08-06 06:51:53.937675 - Received CBT.V505.FILE747.PDS from FILE747.XMI 
+2023-08-06 06:51:53.939921 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:51:53.941115 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:51:53.942142 - Found @FILE747.txt (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/@FILE747
+2023-08-06 06:51:53.943038 - Found LOGJCL.jcl (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/LOGJCL
+2023-08-06 06:51:53.943928 - Found LOGJCL$.jcl (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/LOGJCL$
+2023-08-06 06:51:53.944788 - Found LOGLIVE.jcl (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/LOGLIVE
+2023-08-06 06:51:53.945825 - Found LOGLIVE$.jcl (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/LOGLIVE$
+2023-08-06 06:51:53.946701 - Found LOGR64.txt (text/plain) in CBT.V505.FILE747.PDS, moved to PDS/LOGR64
