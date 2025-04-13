@@ -1,0 +1,9 @@
+2025-04-13 22:31:24.278559 - Received CBT.V508.FILE747.PDS from FILE747.XMI 
+2025-04-13 22:31:24.279385 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:31:24.279464 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:31:24.279529 - Found @FILE747.txt (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/@FILE747
+2025-04-13 22:31:24.279589 - Found LOGJCL.jcl (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/LOGJCL
+2025-04-13 22:31:24.279668 - Found LOGJCL$.jcl (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/LOGJCL$
+2025-04-13 22:31:24.279731 - Found LOGLIVE.jcl (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/LOGLIVE
+2025-04-13 22:31:24.279803 - Found LOGLIVE$.jcl (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/LOGLIVE$
+2025-04-13 22:31:24.279902 - Found LOGR64.txt (text/plain) in CBT.V508.FILE747.PDS, moved to PDS/LOGR64
